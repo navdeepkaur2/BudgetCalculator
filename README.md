@@ -15,3 +15,5 @@ if it is placed in the expense column.
 * We can remove an individual expense or individual income line. Totals adjust immediately after removing these. 
 * Each expense item shows its percentage relative to the total income.
 * This Month's date is added to the top of the page (using JavaScript) as well as to each income and expense item. 
+
+You can access my website at: https://loquacious-pasca-7025fc.netlify.app/
